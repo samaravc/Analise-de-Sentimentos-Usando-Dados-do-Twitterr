@@ -1,0 +1,1 @@
+# Analise-de-Sentimentos-Usando-Dados-do-Twitterr
